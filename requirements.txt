@@ -1,0 +1,4 @@
+tensorflow==2.21.0
+tensorflow-datasets
+matplotlib
+importlib_resources
